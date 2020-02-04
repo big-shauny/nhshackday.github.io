@@ -9,6 +9,7 @@ summary: Patient entry of peak flow data
 team:
 - '@fredkingham'
 - '@iainxingham'
+- '@dr_smccann'
 thumbnail: peaky_flow.png
 title: Peaky flow
 ---
